@@ -1,4 +1,4 @@
-# Open Source Tools for Monitoring Software Energy Consumption
+#12 Open Source Tools for Monitoring Software Energy Consumption
 
 ![Green Computing Banner](https://images.unsplash.com/photo-1516937941344-00b4e0337589?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
 
@@ -22,7 +22,6 @@
 - [Future Trends](#future-trends)
 - [Community Resources](#community-resources)
 - [FAQ](#faq)
-- [Contributing](#contributing)
 - [Energy Efficiency Benchmarks (2025)](#energy-efficiency-benchmarks-2025)
 - [Environmental Impact Statistics](#environmental-impact-statistics)
 - [Regulatory Compliance](#regulatory-compliance)
