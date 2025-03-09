@@ -882,6 +882,8 @@ This repository builds on the work of numerous researchers, developers, and orga
 ---
 
 *This guide is maintained by the sustainable computing community. 
+*All this information was gathered through independent research and open source data.
+
 
 *License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
 
