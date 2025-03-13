@@ -4,28 +4,33 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Why Monitor Software Energy Consumption?](#why-monitor-software-energy-consumption)
-- [Key Metrics in Energy Monitoring](#key-metrics-in-energy-monitoring)
-- [Open Source Monitoring Tools](#open-source-monitoring-tools)
-  - [System-Level Monitoring](#system-level-monitoring)
-  - [Application-Level Monitoring](#application-level-monitoring)
-  - [Cloud and Infrastructure Monitoring](#cloud-and-infrastructure-monitoring)
-  - [Mobile Device Monitoring](#mobile-device-monitoring)
-  - [Web Application Monitoring](#web-application-monitoring)
-- [Implementation Strategies](#implementation-strategies)
-  - [Getting Started](#getting-started)
-  - [Integration with CI/CD Pipelines](#integration-with-cicd-pipelines)
-  - [Continuous Monitoring](#continuous-monitoring)
-- [Best Practices](#best-practices)
-- [Case Studies](#case-studies)
-- [Future Trends](#future-trends)
-- [Community Resources](#community-resources)
-- [FAQ](#faq)
-- [Energy Efficiency Benchmarks (2025)](#energy-efficiency-benchmarks-2025)
-- [Environmental Impact Statistics](#environmental-impact-statistics)
-- [Regulatory Compliance](#regulatory-compliance)
-- [Acknowledgments](#acknowledgments)
+<details>
+  <summary>Click to Expand</summary>
+
+  - [Introduction](#introduction)  
+  - [Why Monitor Software Energy Consumption?](#why-monitor-software-energy-consumption)  
+  - [Key Metrics in Energy Monitoring](#key-metrics-in-energy-monitoring)  
+  - [Open Source Monitoring Tools](#open-source-monitoring-tools)  
+    - [System-Level Monitoring](#system-level-monitoring)  
+    - [Application-Level Monitoring](#application-level-monitoring)  
+    - [Cloud and Infrastructure Monitoring](#cloud-and-infrastructure-monitoring)  
+    - [Mobile Device Monitoring](#mobile-device-monitoring)  
+    - [Web Application Monitoring](#web-application-monitoring)  
+  - [Implementation Strategies](#implementation-strategies)  
+    - [Getting Started](#getting-started)  
+    - [Integration with CI/CD Pipelines](#integration-with-cicd-pipelines)  
+    - [Continuous Monitoring](#continuous-monitoring)  
+  - [Best Practices](#best-practices)  
+  - [Case Studies](#case-studies)  
+  - [Future Trends](#future-trends)  
+  - [Community Resources](#community-resources)  
+  - [FAQ](#faq)  
+  - [Energy Efficiency Benchmarks (2025)](#energy-efficiency-benchmarks-2025)  
+  - [Environmental Impact Statistics](#environmental-impact-statistics)  
+  - [Regulatory Compliance](#regulatory-compliance)  
+  - [Acknowledgments](#acknowledgments)  
+
+</details>
 
 ## Introduction
 
