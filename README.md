@@ -705,7 +705,7 @@ A web service provider wanted to reduce the carbon footprint of their hosting in
 - [Sustainable Computing Research Group](https://sustainable-computing.io/)
 - [Energy Efficient Computing Stack Community](https://eecs.community/)
 - [r/GreenComputing](https://www.reddit.com/r/GreenComputing/)
-- [Green Coding Berlin](https://www.green-coding.berlin/)
+- [Green Coding IO](https://www.green-coding.io/)
 
 ### Conferences and Events
 
